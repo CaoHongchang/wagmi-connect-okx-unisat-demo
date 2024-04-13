@@ -1,0 +1,19 @@
+.wallet-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(43, 49, 109, 0.8);
+  height: 7vh;
+
+  padding: 1rem;
+
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+.wallet-main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
